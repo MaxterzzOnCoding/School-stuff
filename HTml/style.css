@@ -5,7 +5,7 @@
   background-color: #cc33ff;
   text-align: center;
   color: #ffffff;
-  -webkit-text-stroke:  1.5px  #000000;
+  text-decoration:  1.5px  #000000;
   font-family: cursive, serif;
 
  }
@@ -33,9 +33,7 @@ h2 {
 td {
     font-family: monospace;
 }
-img {
-    align-content: right;
-}
+
 .spaltenfarbe {
  background-color:#ffccff ;
 }
