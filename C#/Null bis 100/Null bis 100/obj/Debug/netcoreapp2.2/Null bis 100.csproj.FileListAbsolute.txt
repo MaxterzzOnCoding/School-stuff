@@ -1,0 +1,11 @@
+H:\infT_c#\c#\Null bis 100\Null bis 100\bin\Debug\netcoreapp2.2\Null bis 100.deps.json
+H:\infT_c#\c#\Null bis 100\Null bis 100\bin\Debug\netcoreapp2.2\Null bis 100.runtimeconfig.json
+H:\infT_c#\c#\Null bis 100\Null bis 100\bin\Debug\netcoreapp2.2\Null bis 100.runtimeconfig.dev.json
+H:\infT_c#\c#\Null bis 100\Null bis 100\bin\Debug\netcoreapp2.2\Null bis 100.dll
+H:\infT_c#\c#\Null bis 100\Null bis 100\bin\Debug\netcoreapp2.2\Null bis 100.pdb
+H:\infT_c#\c#\Null bis 100\Null bis 100\obj\Debug\netcoreapp2.2\Null bis 100.csprojAssemblyReference.cache
+H:\infT_c#\c#\Null bis 100\Null bis 100\obj\Debug\netcoreapp2.2\Null bis 100.csproj.CoreCompileInputs.cache
+H:\infT_c#\c#\Null bis 100\Null bis 100\obj\Debug\netcoreapp2.2\Null bis 100.AssemblyInfoInputs.cache
+H:\infT_c#\c#\Null bis 100\Null bis 100\obj\Debug\netcoreapp2.2\Null bis 100.AssemblyInfo.cs
+H:\infT_c#\c#\Null bis 100\Null bis 100\obj\Debug\netcoreapp2.2\Null bis 100.dll
+H:\infT_c#\c#\Null bis 100\Null bis 100\obj\Debug\netcoreapp2.2\Null bis 100.pdb
