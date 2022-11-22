@@ -1,0 +1,11 @@
+H:\infT_c#\c#\summevon2zahlen\summevon2zahlen\bin\Debug\netcoreapp2.2\summevon2zahlen.deps.json
+H:\infT_c#\c#\summevon2zahlen\summevon2zahlen\bin\Debug\netcoreapp2.2\summevon2zahlen.runtimeconfig.json
+H:\infT_c#\c#\summevon2zahlen\summevon2zahlen\bin\Debug\netcoreapp2.2\summevon2zahlen.runtimeconfig.dev.json
+H:\infT_c#\c#\summevon2zahlen\summevon2zahlen\bin\Debug\netcoreapp2.2\summevon2zahlen.dll
+H:\infT_c#\c#\summevon2zahlen\summevon2zahlen\bin\Debug\netcoreapp2.2\summevon2zahlen.pdb
+H:\infT_c#\c#\summevon2zahlen\summevon2zahlen\obj\Debug\netcoreapp2.2\summevon2zahlen.csprojAssemblyReference.cache
+H:\infT_c#\c#\summevon2zahlen\summevon2zahlen\obj\Debug\netcoreapp2.2\summevon2zahlen.csproj.CoreCompileInputs.cache
+H:\infT_c#\c#\summevon2zahlen\summevon2zahlen\obj\Debug\netcoreapp2.2\summevon2zahlen.AssemblyInfoInputs.cache
+H:\infT_c#\c#\summevon2zahlen\summevon2zahlen\obj\Debug\netcoreapp2.2\summevon2zahlen.AssemblyInfo.cs
+H:\infT_c#\c#\summevon2zahlen\summevon2zahlen\obj\Debug\netcoreapp2.2\summevon2zahlen.dll
+H:\infT_c#\c#\summevon2zahlen\summevon2zahlen\obj\Debug\netcoreapp2.2\summevon2zahlen.pdb
