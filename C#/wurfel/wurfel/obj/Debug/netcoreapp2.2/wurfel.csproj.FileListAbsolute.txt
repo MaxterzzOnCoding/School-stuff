@@ -1,0 +1,11 @@
+H:\infT_c#\c#\wurfel\wurfel\bin\Debug\netcoreapp2.2\wurfel.deps.json
+H:\infT_c#\c#\wurfel\wurfel\bin\Debug\netcoreapp2.2\wurfel.runtimeconfig.json
+H:\infT_c#\c#\wurfel\wurfel\bin\Debug\netcoreapp2.2\wurfel.runtimeconfig.dev.json
+H:\infT_c#\c#\wurfel\wurfel\bin\Debug\netcoreapp2.2\wurfel.dll
+H:\infT_c#\c#\wurfel\wurfel\bin\Debug\netcoreapp2.2\wurfel.pdb
+H:\infT_c#\c#\wurfel\wurfel\obj\Debug\netcoreapp2.2\wurfel.csprojAssemblyReference.cache
+H:\infT_c#\c#\wurfel\wurfel\obj\Debug\netcoreapp2.2\wurfel.csproj.CoreCompileInputs.cache
+H:\infT_c#\c#\wurfel\wurfel\obj\Debug\netcoreapp2.2\wurfel.AssemblyInfoInputs.cache
+H:\infT_c#\c#\wurfel\wurfel\obj\Debug\netcoreapp2.2\wurfel.AssemblyInfo.cs
+H:\infT_c#\c#\wurfel\wurfel\obj\Debug\netcoreapp2.2\wurfel.dll
+H:\infT_c#\c#\wurfel\wurfel\obj\Debug\netcoreapp2.2\wurfel.pdb

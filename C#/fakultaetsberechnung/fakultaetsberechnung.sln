@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fakultaetsberechnung", "fakultaetsberechnung\fakultaetsberechnung.csproj", "{FD170C56-9669-4930-B87C-463BC8E226E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD170C56-9669-4930-B87C-463BC8E226E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD170C56-9669-4930-B87C-463BC8E226E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD170C56-9669-4930-B87C-463BC8E226E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD170C56-9669-4930-B87C-463BC8E226E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {252AE280-01CA-4764-8EBF-E796DFF23EA1}
+	EndGlobalSection
+EndGlobal
